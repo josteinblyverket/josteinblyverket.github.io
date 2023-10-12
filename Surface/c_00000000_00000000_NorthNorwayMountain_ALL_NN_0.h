@@ -2,7 +2,7 @@
 
  Contingency table for Cloud cover (octas)
  Selection: NorthNorwayMountain      0 stations
-Period: 20231002-20231002
+Period: 20231002-20231008
 Used {} +
  Limits   0.500000000       1.50000000       2.50000000       3.50000000       4.50000000       5.50000000       6.50000000       7.50000000    
  Each class is data <= limit, the very last > last limit

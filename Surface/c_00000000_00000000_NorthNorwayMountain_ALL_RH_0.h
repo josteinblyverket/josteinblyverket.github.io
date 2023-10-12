@@ -2,7 +2,7 @@
 
  Contingency table for Rh2m (%)
  Selection: NorthNorwayMountain      0 stations
-Period: 20231002-20231002
+Period: 20231002-20231008
 Used {} +
  Limits    30.0000000       50.0000000       65.0000000       75.0000000       85.0000000       95.0000000       100.000000    
  Each class is data <= limit, the very last > last limit

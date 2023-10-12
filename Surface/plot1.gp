@@ -1,7 +1,7 @@
 set terminal png
 set output "fc_00000000_00000000_SvalbardBarents_ALL_TT_0_classes.1.png"
 set datafile missing "-99"
-set title "Frequency  for T2m (deg C)\n   Selection: SvalbardBarents     11 stations\n  Period: 20231002-20231002\n  Used {00,03,...,21} + 00 03 ... 24" 
+set title "Frequency  for T2m (deg C)\n   Selection: SvalbardBarents     11 stations\n  Period: 20231002-20231008\n  Used {00,03,...,21} + 00 03 ... 48" 
 
 set style line 1 lt 0 lw 1 pt 5 # use black thin lines
 set style line 2 lt 8 lw 1 pt 1 # use black thicker lines
