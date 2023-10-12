@@ -17,8 +17,8 @@ t[4] = ['Mslp','U10m','Wind direction','T2m','Td2m','Rh2m','Q2m','Cloud cover','
 v[5] = [0]
 v[5] = v[5].reverse()
 t[5] = v[5]
-v[6] = ['AROME_ARCTIC_preop2_v5mbr000','AROME_Arctic_preop2mbr000']
-t[6] = ['AROME_ARCTIC_preop2_v5mbr000','AROME_Arctic_preop2mbr000']
+v[6] = ['AROME_ARCTIC_preop2_v5mbr000','AROME_Arctic_preop2mbr000','AROME_ARCTIC_preop2_v5_CSmbr000','AROME_Arctic_prodmbr000']
+t[6] = ['AROME_ARCTIC_preop2_v5mbr000','AROME_Arctic_preop2mbr000','AROME_ARCTIC_preop2_v5_CSmbr000','AROME_Arctic_prodmbr000']
 v[7] = ['ALL'] ;
 t[7] = v[7] ;
 
