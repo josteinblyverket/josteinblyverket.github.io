@@ -17,8 +17,8 @@ t[4] = ['Mslp','U10m','Wind direction','T2m','Td2m','Rh2m','Q2m','Cloud cover','
 v[5] = [0]
 v[5] = v[5].reverse()
 t[5] = v[5]
-v[6] = ['no-drift_Drift']
-t[6] = ['no-drift_Drift']
+v[6] = ['CTL_DEV']
+t[6] = ['CTL_DEV']
 v[7] = ['ALL'] ;
 t[7] = v[7] ;
 
